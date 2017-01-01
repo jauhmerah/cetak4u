@@ -1,0 +1,31 @@
+= 1.3.0 (2016, Dec 12)=
+
+- Add feature capture image from webcam
+- Add feature update url/path cliparts, fonts when migrate domain
+- Add feature check theme compatibility with plugin
+- Add feature setup design for variations of variable product
+- Fix bug active domain
+
+= 1.2.0 (2016, Nov 24)=
+
+- Add feature admin template, manage admin templates
+- Add feature export/import design, load admin design template
+- Fix bug render design after resize window
+- Fix bug duplicate item
+- Fix bug load font
+- Fix bug change color SVG path
+- Remove function drag to sort layer in touch device
+
+= 1.1.0 (2016, Nov 07)=
+
+- Add feature setup multi-language
+- Add feature switch frontend language without re-load page
+- Add feature edit category clipart, font
+- Improve interface
+- Add feature choose DPI for print resolution
+- Fix bug crop image
+- Fix bug detail order design
+
+= 1.0 (2016, Oct 19)=
+
+First release
